@@ -51,8 +51,32 @@ Para cada criterio se identificó la referencia de bases de datos estadísticas 
 |     7.Esfuerzo   Fiscal                                |     Capacidad   Fiscal                                                      |     INEC   CIAE-GADP                                                                                                      |     2021    |     Provincial                          |     https://anda.inec.gob.ec/anda/index.php/catalog/906                                                                                 |
 |     8.Vialidad   Rural                                 |     Km   de carreteras ponderados/Área                                      |     INEC   - GEODATABASE_NACIONAL_2021    CIAE                                                                            |     2021    |     Parroquial                          |     https://www.ecuadorencifras.gob.ec//documentos/web-inec/Cartografia/BDD_geodatabase/                                                |
 |     9.Seguridad   Alimentaria                          |     Suficiencia   de alimentos , acceso, consumo                            |     ENSANUT   2018                                                                                                        |     2018    |     Provincial                          |     https://anda.inec.gob.ec/anda/index.php/catalog/891                                                                                 |
-|     10.Fomento   Productivo                            |                                                                             |     INEC   CIAE-GADP                                                                                                      |     2021    |     Provincial                          |     https://anda.inec.gob.ec/anda/index.php/catalog/906                                                                                 |
+|     10.Fomento   Productivo                            |                                                                             |     INEC   CIAE-GADP                                                                                                      |     2021    |     Provincial                          |     http://geoportal.agricultura.gob.ec/index.php/visor-geo                                                                                 |
 |     11.Servicios                                       |                                                                             |     INEC   CIAE-GADP                                                                                                      |     2021    |     Provincial                          |     https://anda.inec.gob.ec/anda/index.php/catalog/906                                                                                 |
 |     12.Participacion   Mujeres en Cargos Directivos    |                                                                             |     ENEMDU??                                                                                                              |             |     Provincial                          |     https://www.ecuadorencifras.gob.ec/enemdu-anual/                                                                                    |
 |     13.Migracion                                       |     Porcentaje   de la población que ha migrado en los últimos 5 años       |     INEC   - PP                                                                                                           |     2021    |     Parroquial                          |     https://www.ecuadorencifras.gob.ec/proyecciones-poblacionales/                                                                      |
 |     14.   Gestión Ambiental                            |                                                                             |     INEC   CIAE-GADP                                                                                                      |     2021    |     Provincial                          |     https://anda.inec.gob.ec/anda/index.php/catalog/906                                                                                 |
+
+## Fuentes bibliográficas
+
+```buildoutcfg
+
+@article{registro_oficial_codigo_2011,
+	title = {Código {Orgánico} de {Organización} {Territorial}, {Autonomía} y {Descentralización} ({COOTAD})},
+	author = {{Registro Oficial}},
+	year = {2011},
+	file = {Código Orgánico de organización Territorial, Autonomía y Descentralización.pdf:C\:\\Users\\doubl\\Zotero\\storage\\EC6A38W5\\Código Orgánico de organización Territorial, Autonomía y Descentralización.pdf:application/pdf;Full Text:C\:\\Users\\doubl\\Zotero\\storage\\YUX6TT2W\\DESCENTRALIZACIÓN - 2011 - Código Orgánico de Organización Territorial, Auton.pdf:application/pdf},
+}
+
+@techreport{senplades_guimetodologica_2012,
+	address = {Ecuador},
+	title = {Guía metodológica para el cálculo de la distribución de los recursos fiscales para los gobiernos autónomos descentralizados},
+	url = {http://competencias. gob.ec/biblioteca-virtual/166-guia-distribucion- recursos},
+	language = {Es},
+	author = {{SENPLADES}},
+	year = {2012},
+	pages = {53},
+}
+```
+
+
