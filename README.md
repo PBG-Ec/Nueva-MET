@@ -1,8 +1,8 @@
 # Repositorio de datos del nuevo modelo de equidad territorial
 Simulación de modelo de equidad territorial
 
-En esta página se encuetran los datos permitiendo el calculo de la MET para el año 2022. 
-Tambien se incluye la documentación pública referente a los cálculo de presupuestos a nivel de GADs. 
+En esta página se encuetran los datos permitiendo el calculo de la MET para el año 2022, presentado en la página https://pbgec.shinyapps.io/shapp/. 
+Tambien se incluye la documentación pública referente a los cálculos de presupuestos a nivel de GADs. 
 
 ## Universo
 
