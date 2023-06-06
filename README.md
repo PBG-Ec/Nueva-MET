@@ -18,9 +18,9 @@ Para cada criterio se identificó la referencia de bases de datos estadísticas 
 
 2.	Densidad de población. La densidad de la población se estimó en base a la extensión geográfica de cada parroquia de la DPA del año 2022 (INEC).
 
-3.	Pobreza. La base de datos más precisa y actualizada a nivel de parroquia hace referencia al informe “El Reporte de Pobreza 2006 – 2014” publicado en 2015. Emplea metodologías de estimación de pequeñas áreas de pobreza por consumo.
+3.	Pobreza. Se emplea las proyecciones NBI del INEC para 2021. Sin embargo, la base de datos más precisa y actualizada a nivel de parroquia hace referencia al informe “El Reporte de Pobreza 2006 – 2014” publicado en 2015. Emplea metodologías de estimación de pequeñas áreas de pobreza por consumo.
 
-4.	Logros en el mejoramiento de los niveles de vida. No se aplicó este criterio al no tener la formula aplicada a este nivel.
+4.	Logros en el mejoramiento de los niveles de vida. Se emplea las proyecciones NBI del INEC.
 
 5.	Capacidad fiscal. No se aplicó este criterio al no tener peso en los presupuestos parroquiales.
 
