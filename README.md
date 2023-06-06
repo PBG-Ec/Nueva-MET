@@ -59,24 +59,5 @@ Para cada criterio se identificó la referencia de bases de datos estadísticas 
 
 ## Fuentes bibliográficas
 
-```buildoutcfg
-
-@article{registro_oficial_codigo_2011,
-	title = {Código {Orgánico} de {Organización} {Territorial}, {Autonomía} y {Descentralización} ({COOTAD})},
-	author = {{Registro Oficial}},
-	year = {2011},
-	file = {Código Orgánico de organización Territorial, Autonomía y Descentralización.pdf:C\:\\Users\\doubl\\Zotero\\storage\\EC6A38W5\\Código Orgánico de organización Territorial, Autonomía y Descentralización.pdf:application/pdf;Full Text:C\:\\Users\\doubl\\Zotero\\storage\\YUX6TT2W\\DESCENTRALIZACIÓN - 2011 - Código Orgánico de Organización Territorial, Auton.pdf:application/pdf},
-}
-
-@techreport{senplades_guimetodologica_2012,
-	address = {Ecuador},
-	title = {Guía metodológica para el cálculo de la distribución de los recursos fiscales para los gobiernos autónomos descentralizados},
-	url = {http://competencias. gob.ec/biblioteca-virtual/166-guia-distribucion- recursos},
-	language = {Es},
-	author = {{SENPLADES}},
-	year = {2012},
-	pages = {53},
-}
-```
-
-
+Registro Oficial. ‘Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)’, 2011.
+SENPLADES. ‘Guía metodológica para el cálculo de la distribución de los recursos fiscales para los gobiernos autónomos descentralizados’. Ecuador, 2012. http://competencias. gob.ec/biblioteca-virtual/166-guia-distribucion- recursos.
