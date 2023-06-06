@@ -60,4 +60,4 @@ Para cada criterio se identificó la referencia de bases de datos estadísticas 
 ## Fuentes bibliográficas
 
 Registro Oficial. ‘Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)’, 2011.
-SENPLADES. ‘Guía metodológica para el cálculo de la distribución de los recursos fiscales para los gobiernos autónomos descentralizados’. Ecuador, 2012. http://competencias. gob.ec/biblioteca-virtual/166-guia-distribucion- recursos.
+SENPLADES. ‘Guía metodológica para el cálculo de la distribución de los recursos fiscales para los gobiernos autónomos descentralizados’. Ecuador, 2012. http://competencias.gob.ec/biblioteca-virtual/166-guia-distribucion-recursos.
